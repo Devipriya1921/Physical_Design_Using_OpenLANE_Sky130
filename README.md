@@ -883,7 +883,7 @@ Zoom in view:
 - The reports in the latest version is not generated in the terminal, we have to verify them from the reports/results folder.
 - SPEF extraction need not be externally performed in the new version. It has been integrated into the OpenLANE flow.
 
-## References 
+## Acknowledgments 
 
 - [The OpenROAD Project](https://github.com/The-OpenROAD-Project/OpenLane)
 - [Nickson Jose](https://github.com/nickson-jose/vsdstdcelldesign)
