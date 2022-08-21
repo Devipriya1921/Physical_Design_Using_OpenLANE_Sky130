@@ -252,10 +252,6 @@ The netlist defines connectivity between logic gates. The place between the core
 2. ```conifg.tcl```
 3. ```sky130A_sky130_fd_sc_hd_config.tcl```
 
-![floorplan tcl file (system default)](https://user-images.githubusercontent.com/86701156/124388831-398ac180-dd02-11eb-9f2b-b950fa8adaa9.PNG)
-![config tcl file](https://user-images.githubusercontent.com/86701156/124388834-3bed1b80-dd02-11eb-9b81-eb0a4fa3a55c.PNG)
-![sky130 tcl file](https://user-images.githubusercontent.com/86701156/124388839-40193900-dd02-11eb-8545-ab568e51f315.PNG)
-
 * Floorplan envrionment variables or switches:
 
 1. ```FP_CORE_UTIL``` - floorplan core utilisation
