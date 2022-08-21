@@ -953,6 +953,7 @@ picorv32a
 │   │   │   ├── cvc
 │   │   │   ├── floorplan
 │   │   │   ├── klayout
+|   |   |   ├── signoff
 │   │   │   ├── magic
 │   │   │   ├── placement
 │   │   │   ├── routing
