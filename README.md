@@ -968,7 +968,8 @@ picorv32a
 │   │       └── synthesis
 ├── src
 |   ├── picorv32a.v
-    
+
+```
 
 ## Differences from older OpenLANE versions
 
