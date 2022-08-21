@@ -49,6 +49,7 @@ This project is done in the course ["Advanced Physical Design using OpenLANE/Sky
    - [Routing](#routing)
    - [GDSII](#gdsii)
    - [LEF](#lef)
+7. [Design folder](#design-folder)   
 7. [Differences from older OpenLANE versions](#differences-from-older-openlane-versions)
 8. [Acknowledgements](#acknowledgements)
 9. [Author](#author)
@@ -919,6 +920,55 @@ Zoom in view:
 
 ![4  picorv32a lef mag layout](https://user-images.githubusercontent.com/83152452/185795429-6fbb2ed0-e787-46d0-a4f7-198ae3bd8fd2.png)
 
+## Design folder
+
+
+```
+
+picorv32a
+├── config.tcl
+├── runs
+│   ├── RUN_2022.08.17_16.22.21
+│   │   ├── config.tcl
+│   │   ├── logs
+│   │   │   ├── cts
+│   │   │   ├── cvc
+│   │   │   ├── floorplan
+│   │   │   ├── klayout
+│   │   │   ├── magic
+│   │   │   ├── placement
+│   │   │   ├── routing
+│   │   │   └── synthesis
+│   │   ├── reports
+│   │   │   ├── cts
+│   │   │   ├── cvc
+│   │   │   ├── floorplan
+│   │   │   ├── klayout
+│   │   │   ├── magic
+│   │   │   ├── placement
+│   │   │   ├── routing
+│   │   │   └── synthesis
+│   │   ├── results
+│   │   │   ├── cts
+│   │   │   ├── cvc
+│   │   │   ├── floorplan
+│   │   │   ├── klayout
+│   │   │   ├── magic
+│   │   │   ├── placement
+│   │   │   ├── routing
+│   │   │   └── synthesis
+│   │   └── tmp
+│   │       ├── cts
+│   │       ├── cvc
+│   │       ├── floorplan
+│   │       ├── klayout
+│   │       ├── magic
+│   │       ├── placement
+│   │       ├── routing
+│   │       └── synthesis
+├── src
+|   ├── picorv32a.v
+    
 
 ## Differences from older OpenLANE versions
 
