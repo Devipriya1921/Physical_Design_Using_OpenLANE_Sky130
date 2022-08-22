@@ -51,7 +51,7 @@ This project is done in the course ["Advanced Physical Design using OpenLANE/Sky
    - [LEF](#lef)
 7. [Design folder](#design-folder)   
 8. [Differences from older OpenLANE versions](#differences-from-older-openlane-versions)
-9. [Summary]{#summary)
+9. [Summary](#summary)
    - [VLSI NON INTERACTIVE OPENLANE FLOW](#vlsi-non-interactive-openlane-flow)
    - [VLSI INTERACTIVE OPENLANE FLOW](#vlsi-interactive-openlane-flow)
 11. [Acknowledgements](#acknowledgements)
